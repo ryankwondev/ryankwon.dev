@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Ready to Take Off
+description: Ryan's personal website
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://ryankwon.dev
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub: https://github.com/ryankwondev
+  Twitter: https://twitter.com/ryankwondev
+  Instagram: https://instagram.com/ryankwondev
+
+include:
+  - _sass/custom/custom.css
